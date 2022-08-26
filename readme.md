@@ -17,6 +17,8 @@ Please check the Live Demo of the Designed Landing Page using the Below Link:-)
 
 [Live-Demo](https://shopify-clone-page1.netlify.app)
 
-##
+## Time taken to finish this project
+
+⏰- 2 days taken to complete it.
 
 ## Designed By Patil Pratiksha
